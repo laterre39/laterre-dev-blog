@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["docs"]
+mainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
@@ -57,7 +57,7 @@ smartTOCHideUnfocusedChildren = false
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
+  editURL = "https://github.com/laterre39/laterre.dev/tree/main/content"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
