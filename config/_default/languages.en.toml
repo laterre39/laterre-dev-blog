@@ -10,8 +10,7 @@ title = "LATERRE DEV"
   dateFormat = "2 January 2006"
   # logo = "img/laterre_logo.png"
   # secondaryLogo = "PATH"
-  description = "Develop Experience @Backend Developer"
-  copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "© 2023 Laterre"
 
 [author]
   name = "LATERRE"
