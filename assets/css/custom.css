@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Linefont';
+    src: url('/fonts/Linefont-Medium.ttf');
+}
+
+.sr-only {
+    font-family: Linefont';
+}
