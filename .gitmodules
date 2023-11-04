@@ -1,0 +1,4 @@
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/laterre39/laterre-dev-blowfish.git
+	branch = main
