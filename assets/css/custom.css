@@ -2,8 +2,3 @@
     font-family: 'Linefont';
     src: url('/fonts/Linefont-Medium.ttf');
 }
-
-.text-base {
-    font-family: 'Linefont';
-    font-size: 2rem;
-}
