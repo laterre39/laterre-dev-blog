@@ -14,14 +14,13 @@ title = "Laterre.dev"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-  name = "Blowfish"
-  image = "img/blowfish_logo.png"
-  headline = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-  bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  name = "LATERRE"
+  image = "img/laterre.logo.png"
+  headline = "Develop Experience @Backend Developer"
+  bio = "Develop Experience @Backend Developer"
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { mastodon = "https://masto.ai/@blowfish" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { x-twitter = "https://twitter.com" },
+    { github = "https://github.com/laterre39" },
   ]
 
   
