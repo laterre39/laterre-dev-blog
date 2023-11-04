@@ -1,11 +1,11 @@
----
-title: "첫 블로그 포스팅!"
-date: 2023-11-05
-draft: false
-description: "개발자 글쓰기 시작하자!"
-slug: "첫-블로그-포스팅"
-tags: ["블로그"]
----
++++
+categories = ['Development']
+project_url = 'https://github.com/gohugoio/hugo'
+series = ['Go Web Dev']
+slug = 'hugo'
+tags = ['Development', 'Go', 'fast', 'Blogging']
+title = 'Hugo: A fast and flexible static site generator'
++++
 
 # 첫 블로그 포스팅
 
