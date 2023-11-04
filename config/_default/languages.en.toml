@@ -1,15 +1,15 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "LATERRE DEV"
+title = ""
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/laterre_logo.png"
-  # secondaryLogo = "PATH"
+  logo = "img/laterre_logo_symbol.png"
+  secondaryLogo = "img/laterre_logo.png"
   copyright = "© 2023 Laterre"
 
 [author]
