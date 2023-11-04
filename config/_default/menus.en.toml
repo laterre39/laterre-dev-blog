@@ -36,16 +36,22 @@
 #  weight = 30
 
 [[main]]
+  identifier = "email"
+  pre = "email"
+  url = "mailto:laterre39@naver.com"
+  weight = 100
+
+[[main]]
   identifier = "twitter"
   pre = "x-twitter"
   url = "https://twitter.com"
-  weight = 100
+  weight = 200
 
 [[main]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/laterre39"
-  weight = 200
+  weight = 300
 
 
 # -- Footer Menu --
@@ -58,6 +64,6 @@
    weight = 10
 
  [[footer]]
-   name = "Authors"
-   pageRef = "authors"
+   name = "Categories"
+   pageRef = "categories"
    weight = 20

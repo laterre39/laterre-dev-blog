@@ -18,6 +18,7 @@ title = "LATERRE BLOG"
   headline = "Develop Experience @Backend Developer"
   bio = "Develop Experience @Backend Developer"
   links = [
+    { email = "mailto:laterre39@naver.com" },
     { x-twitter = "https://twitter.com" },
     { github = "https://github.com/laterre39" },
   ]
