@@ -1,9 +1,12 @@
 ---
-title: "첫 블로그 포스트 작성!"
-description: "기나긴 블로그 여정의 종착점 드디어 기술 블로그 운영할 수 있나?"
-date: "2023-11-06"
-categories: ["Blog"]
-tags: ["post", "blogging"]
+title: "Super cool article that I wrote"
+summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna."
+categories: ["Post","Blog",]
+tags: ["post","lorem","ipsum"]
+#externalUrl: ""
+#showSummary: true
+date: 2022-09-04
+draft: false
 ---
 
 {{< alert >}}
