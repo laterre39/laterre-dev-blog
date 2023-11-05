@@ -1,7 +1,7 @@
 ---
 title: "블로그 첫 포스트 작성!"
-categories: ["Post","Blog",]
-tags: ["post","lorem","ipsum"]
+categories: ["Post","Blog"]
+tags: ["blog"]
 #externalUrl: ""
 #showSummary: true
 date: 2022-09-04
