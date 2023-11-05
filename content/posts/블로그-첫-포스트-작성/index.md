@@ -2,10 +2,11 @@
 title: 첫 블로그 포스트 작성!
 description: 기나긴 블로그 여정의 종착점 드디어 기술 블로그 운영할 수 있나?
 summary: 기나긴 블로그 여정의 종착점 드디어 기술 블로그 운영할 수 있나?
+date: 2023-11-06
 categories:
-  - Blog
+  - Notice
 tags:
-  - blog
+  - post
 ---
 
 {{< alert >}}
