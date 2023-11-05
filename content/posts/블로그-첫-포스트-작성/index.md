@@ -1,10 +1,10 @@
 ---
 title: "블로그 첫 포스트 작성!"
+date: 2023-11-06
 categories: ["Post","Blog"]
 tags: ["blog"]
 #externalUrl: ""
 #showSummary: true
-date: "2023-11-06"
 draft: false
 ---
 
