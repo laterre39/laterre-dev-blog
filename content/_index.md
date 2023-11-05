@@ -1,6 +1,6 @@
-{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
-불타는 프로그래밍 코드!
-{{< /alert >}}
+{{</* alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" */>}}
+This is an error!
+{{</* /alert */>}}
 
 
 좋은 개발자 경험을 추구합니다.  
