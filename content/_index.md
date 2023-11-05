@@ -3,7 +3,7 @@ title: "LATERRE BLOG HOME"
 description: "환영합니다 라테르 기술 블로그 입니다."
 ---
 
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-900 dark:bg-primary-100">
+<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
     {{< icon "fire" >}}
   </span>
