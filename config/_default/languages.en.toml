@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "LATERRE BLOG"
+title = "n번째 코드"
 
 [params]
   displayName = "EN"
@@ -11,7 +11,7 @@ title = "LATERRE BLOG"
   logo = "img/laterre_logo_symbol.png"
   secondaryLogo = "img/laterre_logo_color.png"
   description = "Develop Experience @Backend Developer"
-  copyright = "© {year} Laterre"
+  copyright = "© { year } Laterre"
 
 [author]
   name = "LATERRE"
