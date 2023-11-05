@@ -18,7 +18,7 @@ mainSections = ["posts"]
 disableImageOptimization = false
 
 defaultBackgroundImage = "/img/category_background.jpg"
-defaultFeaturedImage = "/img/laterre_default_thumbnail.jpg"
+defaultFeaturedImage = "/img/laterre_default_thumbnail.png"
 
 highlightCurrentMenuArea = true
 smartTOC = true
