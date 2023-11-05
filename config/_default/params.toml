@@ -38,9 +38,9 @@ smartTOCHideUnfocusedChildren = false
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "/img/background.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 12
-  showMoreLink = true
-  showMoreLinkDest = "posts"
+  showRecentItems = 15
+  showMoreLink = false
+  showMoreLinkDest = ""
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
@@ -70,6 +70,7 @@ smartTOCHideUnfocusedChildren = false
   showTaxonomies = true 
   showAuthorsBadges = true 
   showWordCount = false
+  showComments = true
   sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
 
 [list]
@@ -78,7 +79,7 @@ smartTOCHideUnfocusedChildren = false
   layoutBackgroundBlur = true # only used when heroStyle equals background
   layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
-  showSummary = false
+  showSummary = true
   showViews = true
   showLikes = true
   showTableOfContents = true
@@ -113,13 +114,13 @@ smartTOCHideUnfocusedChildren = false
   cardViewScreenWidth = false
   
 [firebase]
-  apiKey = ""
-  authDomain = ""
-  projectId = ""
-  storageBucket = ""
-  messagingSenderId = ""
-  appId = ""
-  measurementId = "G-"
+  apiKey = "AIzaSyAXPu2WWS6VSD1ZJ6_4yPZZflmnYM9iezE"
+  authDomain = "laterre-dev.firebaseapp.com"
+  projectId = "laterre-dev"
+  storageBucket = "laterre-dev.appspot.com"
+  messagingSenderId = "1042827233938"
+  appId = "1:1042827233938:web:49c42f02d5a9f80b9df44b"
+  measurementId = "G-5L8N4JW6H9"
 
 [fathomAnalytics]
   # site = "ABC12345"

@@ -7,16 +7,17 @@ title = "LATERRE BLOG"
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "2 January 2006 MST"
   logo = "img/laterre_logo_symbol.png"
   secondaryLogo = "img/laterre_logo_color.png"
-  copyright = "© 2023 Laterre"
+  description "Develop Experience @Backend Developer"
+  copyright = "© {year} Laterre"
 
 [author]
   name = "LATERRE"
   image = "img/laterre_logo.png"
   headline = "Develop Experience @Backend Developer"
-  bio = "Develop Experience @Backend Developer"
+  bio = "@Backend Developer"
   links = [
     { email = "mailto:laterre39@naver.com" },
     { x-twitter = "https://twitter.com" },
