@@ -8,8 +8,8 @@ title = "LATERRE BLOG"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/laterre_default_thumbnail.png"
-  secondaryLogo = "img/laterre_logo.png"
+  logo = "img/laterre_logo_symbol.png"
+  secondaryLogo = "img/laterre_logo_color.png"
   copyright = "© 2023 Laterre"
 
 [author]
