@@ -30,7 +30,7 @@ smartTOCHideUnfocusedChildren = false
 [footer]
   showMenu = true
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
 
@@ -46,7 +46,7 @@ smartTOCHideUnfocusedChildren = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
-  showDate = false
+  showDate = true
   showViews = true
   showLikes = true
   showDateUpdated = false
@@ -56,7 +56,7 @@ smartTOCHideUnfocusedChildren = false
   layoutBackgroundBlur = true # only used when heroStyle equals background
   showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = true
+  showEdit = false
   editURL = "https://github.com/laterre39/laterre.dev/tree/main/content"
   editAppendPath = true
   seriesOpened = false
