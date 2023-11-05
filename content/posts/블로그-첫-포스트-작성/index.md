@@ -4,7 +4,6 @@ categories: ["Post","Blog"]
 tags: ["blog"]
 #externalUrl: ""
 #showSummary: true
-date: 2022-09-04
 draft: false
 ---
 
