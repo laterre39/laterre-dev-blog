@@ -1,5 +1,5 @@
 ---
-title: "블로그 첫 포스트 작성!"
+title: "Super cool article that I wrote"
 categories: ["Post","Blog"]
 tags: ["post", "blog"]
 #externalUrl: ""
