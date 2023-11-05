@@ -1,9 +1,7 @@
 .bg-home-dark{
-    --tw-bg-opacity: 1;
-    background-color: rgba(239 68 68, var(--tw-bg-opacity));
+    background-color: rgb(220 38 38);
   }
 
 .bg-home-light{
-    --tw-bg-opacity: 1;
-    background-color: rgba(252 165 165, var(--tw-bg-opacity));
+    background-color: rgb(252 165 165);
   }
