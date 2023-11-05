@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "n번째 코드"
+title = "LATERRE-DEV"
 
 [params]
   displayName = "EN"
@@ -17,7 +17,7 @@ title = "n번째 코드"
   name = "LATERRE"
   image = "img/laterre_logo.png"
   headline = "Develop Experience @Backend Developer"
-  bio = "@Backend Developer"
+  bio = "좋은 개발 경험이란 무엇일지 항상 고민합니다."
   links = [
     { email = "mailto:laterre39@naver.com" },
     { x-twitter = "https://twitter.com" },
