@@ -1,6 +1,6 @@
-{{</* alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" */>}}
-This is an error!
-{{</* /alert */>}}
+{{< alert >}}
+**Warning!** This action is destructive!
+{{< /alert >}}
 
 
 좋은 개발자 경험을 추구합니다.  
