@@ -12,7 +12,7 @@ contentDir = "content/"
   logo = "img/laterre_logo_symbol.png"
   secondaryLogo = "img/laterre_logo_color.png"
   description = "Develop Experience @Backend Developer"
-  copyright = "© { year } Laterre"
+  copyright = "© { year } Laterre.dev"
 
 [author]
   name = "LATERRE"
