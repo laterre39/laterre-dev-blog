@@ -1,11 +1,11 @@
-languageCode = "en"
-languageName = "English"
-weight = 2
+languageCode = "ko"
+languageName = "Korean"
+weight = 1
 title = "LATERRE BLOG"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "KO"
+  isoCode = "ko"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/laterre_logo_symbol.png"
