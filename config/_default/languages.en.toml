@@ -2,6 +2,7 @@ languageCode = "en"
 languageName = "English"
 weight = 2
 title = "LATERRE BLOG"
+contentDir = "content/"
 
 [params]
   displayName = "EN"
