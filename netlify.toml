@@ -6,10 +6,10 @@
 
 [build.environment]
   HUGO_VERSION = "0.120.3"
-  TZ = “Asia/Seoul”
+  TZ = "Asia/Seoul"
 
 [context.production.environment]
-  TZ = “Asia/Seoul”
+  TZ = "Asia/Seoul"
 
 [[plugins]]
   package = "netlify-plugin-cypress"
