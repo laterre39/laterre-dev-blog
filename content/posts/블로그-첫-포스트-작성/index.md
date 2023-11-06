@@ -1,6 +1,6 @@
 ---
 title: "블로그 첫 포스트 작성!"
-date: 2023-11-05
+date: 2023-11-06
 categories: ["Post","Blog"]
 tags: ["blog"]
 #externalUrl: ""
