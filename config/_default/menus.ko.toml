@@ -36,22 +36,28 @@
 #  weight = 30
 
 [[main]]
+  identifier = "Namyangju, Korea"
+  pre = "location-dot"
+  url = ""
+  weight = 100
+
+[[main]]
   identifier = "email"
   pre = "email"
   url = "mailto:laterre39@naver.com"
-  weight = 100
+  weight = 200
 
 [[main]]
   identifier = "twitter"
   pre = "x-twitter"
   url = "https://twitter.com"
-  weight = 200
+  weight = 300
 
 [[main]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/laterre39"
-  weight = 300
+  weight = 400
 
 
 # -- Footer Menu --
