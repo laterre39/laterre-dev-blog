@@ -8,9 +8,7 @@ description: "환영합니다 라테르 기술 블로그 입니다."
     {{< icon "code" >}}
   </span>
   <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert typo-idx">
-      <p class="typeText"></p>
-    </span>
+    <span class="prose dark:prose-invert typo-idx">Topic` Domain-Driven Design</span>
   </span>
 </div>
 
