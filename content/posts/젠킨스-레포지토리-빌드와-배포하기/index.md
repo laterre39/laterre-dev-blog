@@ -2,7 +2,7 @@
 title: "젠킨스 레포지토리 빌드와 배포하기"
 description: "젠킨스에서 깃허브 레포지토리를 자동으로 빌드하고 배포하는 과정을 체험해요"
 summary: "젠킨스에서 깃허브 레포지토리를 자동으로 빌드하고 배포하는 과정을 체험해요"
-date: 2023-11-19
+date: 2023-11-18
 categories: ["Post", "Devops"]
 tags: ["devops", "jenkins", "cicd"]
 #externalUrl: ""
