@@ -4,7 +4,7 @@ description: "Mac OS에서 iTerm2 터미널에 Starship Prompt를 설치하고 �
 summary: "Mac OS에서 iTerm2 터미널에 Starship Prompt를 설치하고 꾸미는 방법에 대해서 다룹니다."
 date: 2023-11-16
 categories: ["Post", "Mac"]
-tags: ["blog", "mac", "terminal", "prompt", "shell"]
+tags: ["mac", "terminal", "prompt", "shell"]
 #externalUrl: ""
 #showSummary: true
 draft: false
