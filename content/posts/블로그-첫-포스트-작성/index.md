@@ -1,6 +1,7 @@
 ---
 title: "블로그 첫 포스트 작성!"
 description: "드디어 기술 블로그 첫 시작합니다!"
+summary: "드디어 기술 블로그 첫 시작합니다!"
 date: 2023-11-06
 categories: ["Post","Blog"]
 tags: ["blog"]
