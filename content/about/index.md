@@ -1,3 +1,14 @@
+---
+title: "About"
+description: "Laterre tech blog"
+summary: "Laterre tech blog"
+date: 2023-11-21
+categories: [About]
+tags: ["about"]
+#externalUrl: ""
+#showSummary: true
+draft: false
+---  
 
 {{< typeit 
   tag=h1
