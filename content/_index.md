@@ -8,22 +8,16 @@ description: "환영합니다 라테르 기술 블로그 입니다."
     {{< icon "code" >}}
   </span>
   <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert typo-idx">Topic` Domain-Driven Design</span>
+    <span class="prose dark:prose-invert typo-idx">개발자가 되기 위한 좋은 개발 경험이란 무엇일까?</span>
   </span>
 </div>
 
 {{< typeit
-  tag=h3
-  speed=50
+  tag=h4
   breakLines=false
   loop=true
 >}}
-I Love Java
-I Like Kotlin
-I Use Spring
-{{< /typeit >}}
-
 다양한 것을 배우고 `좋은 개발 경험`을 얻기 위해 항상 도전하고 있습니다.
-
 주로 `자바`와 `스프링` 그리고 `서버`를 다루고 있습니다.
 요즘은 `코틀린`, `러스트`와 `Node.JS`에 관심이 많습니다.
+{{< /typeit >}}
