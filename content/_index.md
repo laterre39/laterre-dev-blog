@@ -12,6 +12,17 @@ description: "환영합니다 라테르 기술 블로그 입니다."
   </span>
 </div>
 
+{{< typeit
+  tag=h3
+  speed=50
+  breakLines=false
+  loop=true
+>}}
+I Love Java
+I Like Kotlin
+I Use Spring
+{{< /typeit >}}
+
 다양한 것을 배우고 `좋은 개발 경험`을 얻기 위해 항상 도전하고 있습니다.
 
 주로 `자바`와 `스프링` 그리고 `서버`를 다루고 있습니다.
