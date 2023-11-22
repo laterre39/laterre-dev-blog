@@ -3,17 +3,6 @@ title: "LATERRE BLOG HOME"
 description: "환영합니다 라테르 기술 블로그 입니다."
 ---
 
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    {{< icon "code" >}}
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert typo-idx">개발자가 되기 위한 좋은 개발 경험이란 무엇일까?</span>
-  </span>
-</div>
-
-</br>
-
 {{< typeit
   lifeLike=true
   breakLines=false
