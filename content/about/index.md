@@ -12,8 +12,8 @@ draft: false
 
 {{< alert >}}
 **Warning!** 해당 페이지는 현재 작업 중 입니다.
-{{< /alert >}}
-
+{{< /alert >}}  
+</br>
 {{< typeit 
     lifeLike=true
     breakLines=false
