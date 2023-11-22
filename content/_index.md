@@ -12,8 +12,10 @@ description: "환영합니다 라테르 기술 블로그 입니다."
   </span>
 </div>
 
+</br>
+
 {{< typeit
-  tag=h4
+  lifeLike=true
   breakLines=false
   loop=true
 >}}
