@@ -29,6 +29,7 @@
 #  name = "Examples"
 #  weight = 20
 
+
 #[[main]]
 #  name = "Showcase"
 #  parent = "Examples"
@@ -36,22 +37,28 @@
 #  weight = 30
 
 [[main]]
-  identifier = "email"
-  pre = "email"
-  url = "mailto:laterre39@naver.com"
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/laterre39"
   weight = 100
+
+[[main]]
+  identifier = "github"
+  pre = "stack-overflow"
+  url = "https://stackoverflow.com/users/20004273/laterre"
+  weight = 200
 
 [[main]]
   identifier = "twitter"
   pre = "x-twitter"
   url = "https://twitter.com"
-  weight = 200
+  weight = 300
 
 [[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/laterre39"
-  weight = 300
+  identifier = "email"
+  pre = "email"
+  url = "mailto:laterre39@naver.com"
+  weight = 400
 
 
 # -- Footer Menu --
