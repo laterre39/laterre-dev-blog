@@ -1,7 +1,7 @@
 languageCode = "ko"
 languageName = "Korean"
 weight = 1
-title = "Blog`Laterre"
+title = "𝗟𝗮𝘁𝗲𝗿𝗿𝗲 𝗦𝗽𝗮𝗰𝗲"
 contentDir = "content/"
 
 [params]
