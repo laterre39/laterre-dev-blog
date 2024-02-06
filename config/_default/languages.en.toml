@@ -1,21 +1,21 @@
 languageCode = "en"
 languageName = "English"
 weight = 2
-title = "𝗟𝗔𝗧𝗘𝗥𝗥𝗘 𝗕𝗟𝗢𝗚"
+title = "𝗟𝗔𝗧𝗘𝗥𝗥𝗘"
 contentDir = "content/"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "2006 January 02"
   logo = "img/laterre_logo_symbol.png"
   secondaryLogo = "img/laterre_logo_color.png"
   description = "Develop Experience @Backend Developer"
   copyright = "© { year } Laterre.dev"
 
 [author]
-  name = "LATERRE"
+  name = "Changil.Kim"
   image = "img/laterre_logo.png"
   headline = "Develop Experience @Backend Developer"
   bio = "좋은 개발 경험이란 무엇일지 항상 고민합니다."

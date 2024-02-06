@@ -1,7 +1,7 @@
 languageCode = "ko"
 languageName = "Korean"
 weight = 1
-title = "𝗟𝗔𝗧𝗘𝗥𝗥𝗘 𝗕𝗟𝗢𝗚"
+title = "𝗟𝗔𝗧𝗘𝗥𝗥𝗘"
 contentDir = "content/"
 
 [params]
@@ -15,7 +15,7 @@ contentDir = "content/"
   copyright = "© { year } Laterre.dev"
 
 [author]
-  name = "LATERRE"
+  name = "Changil.Kim"
   image = "img/laterre_logo.png"
   headline = "Develop Experience @Backend Developer"
   bio = "좋은 개발 경험이란 무엇일지 항상 고민합니다."
