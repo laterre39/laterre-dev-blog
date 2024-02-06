@@ -43,7 +43,7 @@
   weight = 100
 
 [[main]]
-  identifier = "github"
+  identifier = "stack-overflow"
   pre = "stack-overflow"
   url = "https://stackoverflow.com/users/20004273/laterre"
   weight = 200
