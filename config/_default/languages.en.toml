@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 2
-title = "𝗟𝗮𝘁𝗲𝗿𝗿𝗲 𝗦𝗽𝗮𝗰𝗲"
+# title = "𝗟𝗮𝘁𝗲𝗿𝗿𝗲 𝗦𝗽𝗮𝗰𝗲"
 contentDir = "content/"
 
 [params]
