@@ -16,14 +16,28 @@
   weight = 10
 
 [[main]]
+  name = "Categories"
+  weight = 20
+
+[[main]]
+  name = "Programing"
+  parent = "Categories"
+  weight = 21
+
+[[main]]
+  name = "CS"
+  parent = "Categories"
+  weight = 22
+
+[[main]]
   name = "Projects"
   pageRef = "projects"
-  weight = 20
+  weight = 40
 
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 30
+  weight = 50
 
 #[[main]]
 #  name = "Examples"
