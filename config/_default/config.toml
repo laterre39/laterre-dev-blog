@@ -7,7 +7,7 @@ theme = "blowfish"
 baseURL = "https://laterre.dev"
 defaultContentLanguage = "ko"
 
-title = "ＬＡＴＥＲＲＥ ＳＰＡＣＥ"
+title = "𝗟𝗔𝗧𝗘𝗥𝗥𝗘 𝗦𝗣𝗔𝗖𝗘"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
