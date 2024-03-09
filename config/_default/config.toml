@@ -42,13 +42,3 @@ buildFuture = false
     [[related.indices]]
         name = "posts"
         weight = 10
-
-[giscus]
-  repo = 'laterre39/laterre-dev-blog'
-  repoID = 'R_kgDOKpKpOw'
-  category = 'Announcements'
-  categoryID = 'DIC_kwDOKpKpO84Catik'
-  mapping = 'url'
-  inputPosition = 'top'
-
-    
