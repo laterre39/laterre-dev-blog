@@ -5,26 +5,28 @@
         crossorigin="anonymous"
         async>
 
-        "src" : "https://giscus.app/client.js",
-                "data-repo" : "laterre39/laterre-dev-blog",
-                "data-repo-id" : "R_kgDOKpKpOw",
-                "data-category" : "Announcements",
-                "data-category-id" : "DIC_kwDOKpKpO84Catik",
-                "data-mapping" : "title",
-                "data-strict" : "0",
-                "data-reactions-enabled" : "1",
-                "data-emit-metadata" : "0",
-                "data-input-position" : "top",
-                "data-theme" : "noborder_gray",
-                "data-lang" : "ko",
-                "crossorigin" : "anonymous",
-                "async" : "",
+        <script src="https://giscus.app/client.js"
+                data-repo="laterre39/laterre-dev-blog"
+                data-repo-id="R_kgDOKpKpOw"
+                data-category="Announcements"
+                data-category-id="DIC_kwDOKpKpO84Catik"
+                data-mapping="title"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="top"
+                data-theme="cobalt"
+                data-lang="ko"
+                crossorigin="anonymous"
+                async>
+        </script>
 </script> -->
 
 {{- /* Comments area start */ -}}
 {{- /* to add comments read => https://gohugo.io/content-management/comments/ */ -}}
+<div class="comments">
 <script>
-    const getStoredTheme = () => localStorage.getItem("pref-theme") === "dark" ? "dark" : "light";
+    const getStoredTheme = () => localStorage.getItem("appearance") === "dark" ? "dark" : "light";
 
     const setGiscusTheme = () => {
         const sendMessage = (message) => {
@@ -38,20 +40,21 @@
 
     document.addEventListener("DOMContentLoaded", () => {
         const giscusAttributes = {
-                "src" : "https://giscus.app/client.js",
-                "data-repo" : "laterre39/laterre-dev-blog",
-                "data-repo-id" : "R_kgDOKpKpOw",
-                "data-category" : "Announcements",
-                "data-category-id" : "DIC_kwDOKpKpO84Catik",
-                "data-mapping" : "title",
-                "data-strict" : "0",
-                "data-reactions-enabled" : "1",
-                "data-emit-metadata" : "0",
-                "data-input-position" : "top",
-                "data-theme" : getStoredTheme(),
-                "data-lang" : "ko",
-                "crossorigin" : "anonymous",
-                "async" : "",
+            "src": "https://giscus.app/client.js",
+            "data-repo": "{{ .Site.Params.giscus.repo }}",
+            "data-repo-id": "{{ .Site.Params.giscus.repoID }}",
+            "data-category": "{{ .Site.Params.giscus.category }}",
+            "data-category-id": "{{ .Site.Params.giscus.categoryID }}",
+            "data-mapping": "{{ .Site.Params.giscus.mapping | default 'pathname' }}",
+            "data-strict": "{{ .Site.Params.giscus.strict | default '0' }}",
+            "data-reactions-enabled": "{{ .Site.Params.giscus.reactionsEnabled | default '1' }}",
+            "data-emit-metadata": "{{ .Site.Params.giscus.emitMetadata | default '0' }}",
+            "data-input-position": "{{ .Site.Params.giscus.inputPosition | default 'bottom' }}",
+            "data-theme": getStoredTheme(),
+            "data-lang": "{{ .Site.Params.giscus.lang | default 'ko' }}",
+            "data-loading": "{{ .Site.Params.giscus.loading | default 'lazy' }}",
+            "crossorigin": "anonymous",
+            "async": "",
         };
 
         // Dynamically create script tag.
@@ -62,10 +65,11 @@
         document.querySelector(".comments").appendChild(giscusScript);
 
         // Update giscus theme when the theme switcher is clicked.
-        const themeSwitcher = document.querySelector("appearance");
+        const themeSwitcher = document.querySelector("scroll-smooth");
         if (themeSwitcher) {
             themeSwitcher.addEventListener("click", setGiscusTheme);
         }
     });
 </script>
+</div>
 {{- /* Comments area end */ -}}
