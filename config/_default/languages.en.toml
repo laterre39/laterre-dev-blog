@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 2
-# title = "𝗟𝗮𝘁𝗲𝗿𝗿𝗲 𝗦𝗽𝗮𝗰𝗲"
+# title = ""
 contentDir = "content/"
 
 [params]
@@ -12,10 +12,10 @@ contentDir = "content/"
   logo = "img/laterre_logo_symbol.png"
   secondaryLogo = "img/laterre_logo_color.png"
   description = "Develop Experience @Backend Developer"
-  copyright = "© { year } Laterre.dev"
+  copyright = "© { year } blog.laterre.dev"
 
 [author]
-  name = "Changil.Kim"
+  name = "LaTeRrE"
   image = "img/laterre_logo.png"
   headline = "Develop Experience @Backend Developer"
   bio = "좋은 개발 경험이란 무엇일지 항상 고민합니다."
