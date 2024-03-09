@@ -7,7 +7,7 @@ theme = "blowfish"
 baseURL = "https://blog.laterre.dev"
 defaultContentLanguage = "ko"
 
-title = "N번째 코드"
+# title = "Blog"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
