@@ -4,7 +4,7 @@
 
 
 theme = "blowfish"
-baseURL = "https://blog.laterre.dev"
+baseURL = "https://laterre.dev"
 defaultContentLanguage = "ko"
 
 title = "N번째 코드"
