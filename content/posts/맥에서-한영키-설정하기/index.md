@@ -3,8 +3,8 @@ title: "맥에서 한/영 키 설정하기 feat. VIA"
 description: "맥 개발 환경에서 손쉬운 한영 전환을 위해 설정을 변경해봅시다."
 summary: "맥 개발 환경에서 손쉬운 한영 전환을 위해 설정을 변경해봅시다."
 date: 2023-11-20
-categories: ["Post", "Mac"]
-tags: ["mac", "os", "experience"]
+categories: ["macOS"]
+tags: ["macos", "application", "via", "keyboard"]
 #externalUrl: ""
 #showSummary: true
 draft: false
