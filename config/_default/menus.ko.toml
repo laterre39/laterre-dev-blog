@@ -15,40 +15,186 @@
   pageRef = "posts"
   weight = 10
 
+
 [[main]]
   name = "Categories"
+  pageRef = "categories"
   weight = 20
 
-[[main]]
-  name = "Programing"
-  parent = "Categories"
-  weight = 21
+  [[main]]
+    name = "Language"
+    parent = "Categories"
+    pageRef = "language"
+    weight = 100
 
-[[main]]
-  name = "CS"
-  parent = "Categories"
-  weight = 22
+    [[main]]
+      name = "Java"
+      parent = "Language"
+      pageRef = "java"
+      weight = 110
+
+    [[main]]
+      name = "Kotlin"
+      parent = "Language"
+      pageRef = "kotlin"
+      weight = 120
+
+    [[main]]
+      name = "Rust"
+      parent = "Language"
+      pageRef = "rust"
+      weight = 130
+
+    [[main]]
+      name = "Python"
+      parent = "Language"
+      pageRef = "python"
+      weight = 140
+
+    [[main]]
+      name = "JavaScript"
+      parent = "Language"
+      pageRef = "javascript"
+      weight = 150
+
+    [[main]]
+      name = "Web"
+      parent = "Language"
+      pageRef = "web"
+      weight = 160
+  
+  [[main]]
+    name = "Framework"
+    parent = "Categories"
+    pageRef = "framework"
+    weight = 21
+
+    [[main]]
+      name = "Spring framework"
+      parent = "Framework"
+      pageRef = "spring-framework"
+      weight = 200
+
+    [[main]]
+      name = "NodeJS"
+      parent = "Framework"
+      pageRef = "nodejs"
+      weight = 210
+
+  [[main]]
+    name = "DBMS"
+    parent = "Categories"
+    pageRef = "dbms"
+    weight = 22
+
+    [[main]]
+      name = "MariaDB"
+      parent = "DBMS"
+      pageRef = "mariaDB"
+      weight = 300
+
+    [[main]]
+      name = "PostgresSQL"
+      parent = "DBMS"
+      pageRef = "postgressql"
+      weight = 310
+
+  [[main]]
+    name = "Cloud & CICD"
+    parent = "Categories"
+    pageRef = "cloud&cicd"
+    weight = 23
+
+    [[main]]
+      name = "AWS"
+      parent = "Cloud & CICD"
+      pageRef = "aws"
+      weight = 400
+
+    [[main]]
+      name = "Jenkins"
+      parent = "Cloud & CICD"
+      pageRef = "jenkins"
+      weight = 410
+
+  [[main]]
+    name = "Computer Science"
+    parent = "Categories"
+    pageRef = "cs"
+    weight = 24
+
+    [[main]]
+      name = "Algorithm"
+      parent = "Computer Science"
+      pageRef = "algorithm"
+      weight = 500
+
+  [[main]]
+    name = "OS"
+    parent = "Categories"
+    pageRef = "os"
+    weight = 25
+
+    [[main]]
+      name = "macOS"
+      parent = "OS"
+      pageRef = "macos"
+      weight = 600
+
+    [[main]]
+      name = "Windows"
+      parent = "OS"
+      pageRef = "windows"
+      weight = 610
+    
+    [[main]]
+      name = "Ubuntu"
+      parent = "ubuntu"
+      pageRef = "ubuntu"
+      weight = 620
+
+  [[main]]
+    name = "VCS"
+    parent = "Categories"
+    pageRef = "vcs"
+    weight = 26
+
+    [[main]]
+      name = "Github"
+      parent = "VCS"
+      pageRef = "github"
+      weight = 700
+
+  [[main]]
+    name = "IDE"
+    parent = "Categories"
+    pageRef = "ide"
+    weight = 27
+
+    [[main]]
+      name = "IntelliJ"
+      parent = "VCS"
+      pageRef = "intellij"
+      weight = 800
+
+    [[main]]
+      name = "VScode"
+      parent = "VCS"
+      pageRef = "vscode"
+      weight = 810
 
 [[main]]
   name = "Projects"
   pageRef = "projects"
-  weight = 40
+  weight = 30
+
 
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 50
-
-#[[main]]
-#  name = "Examples"
-#  weight = 20
+  weight = 40
 
 
-#[[main]]
-#  name = "Showcase"
-#  parent = "Examples"
-#  pageRef = "examples"
-#  weight = 30
 
 [[main]]
   identifier = "github"
@@ -73,6 +219,7 @@
   pre = "email"
   url = "mailto:laterre39@naver.com"
   weight = 400
+
 
 
 # -- Footer Menu --
