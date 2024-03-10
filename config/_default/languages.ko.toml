@@ -9,8 +9,8 @@ contentDir = "content/"
   isoCode = "ko"
   rtl = false
   dateFormat = "2006 January 02"
-  logo = "img/laterre_logo_symbol.png"
-  secondaryLogo = "img/laterre_logo_color.png"
+  logo = "img/laterre_logo_white.png"
+  secondaryLogo = "img/laterre_logo_black.png"
   description = "Develop Experience @Backend Developer"
   copyright = "© { year } blog.laterre.dev"
 
