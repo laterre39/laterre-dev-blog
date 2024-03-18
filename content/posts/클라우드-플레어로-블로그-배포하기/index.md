@@ -11,7 +11,7 @@ draft: false
 ---
 
 {{< figure
-src="content/images/cl_pa_logo.png"
+src="content/images/featured.png"
 alt="Cloudflare Pages"
 caption="Cloudflare Pages"
 >}}
