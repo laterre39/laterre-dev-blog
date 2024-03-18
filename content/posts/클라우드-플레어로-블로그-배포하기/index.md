@@ -11,7 +11,7 @@ draft: false
 ---
 
 {{< figure
-src="content/images/featured.png"
+src="content/images/cl_pa_logo.png"
 alt="Cloudflare Pages"
 caption="Cloudflare Pages"
 >}}
@@ -23,7 +23,7 @@ caption="Cloudflare Pages"
 이런 조그마한 개발 블로그에 설마 저런 상황이 벌어질리는 없겠지만..  
 혹시라는게 있으니까 사용하던 Netlify에서 다른 정적 사이트 클라우드를 사용하기로 했습니다
 
-## 다른 플랫폼은?
+## 대체할 플랫폼
 처음에는 Vercel을 생각했는데 거기도 Netlify와 다른게 없는 상황이여서 선택지에서 배제했습니다.  
 여러가지로 검색을 해보던 와중에 클라우드플레어에서 [Cloudflare Pages](https://developers.cloudflare.com/pages)라는 서비스를 제공해준다는 것을 알게 되었습니다.  
 클라우드 플레어는 DDoS 관련 방어등으로 유명한 클라우드 회사로 무료 DDoS 방어를 제공하고 있습니다.  
@@ -40,6 +40,8 @@ caption="Cloudflare Pages"
 ## Cloudflare Pages 사용기
 설정을 모두 끝마친 모습입니다.  
 이미 Hugo 베이스의 레포지토리를 가지고 있어서 금방 설정할 수 있었습니다.
+
+다음에 시간이 된다면 생성 방법에 대해서 포스팅 해보겠습니다.
 
 {{< figure
 src="content/images/cf_pa_ma.png"
