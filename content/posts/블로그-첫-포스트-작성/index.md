@@ -4,7 +4,7 @@ description: "드디어 기술 블로그 첫 시작합니다!"
 summary: "드디어 기술 블로그 첫 시작합니다!"
 date: 2023-11-06
 categories: ["Blog"]
-tags: ["blog", hugo", "woowacourse"]
+tags: ["blog", "hugo", "woowacourse"]
 #externalUrl: ""
 #showSummary: true
 draft: false
