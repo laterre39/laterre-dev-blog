@@ -11,30 +11,27 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
   name = "Posts"
   pageRef = "posts"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Projects"
   pageRef = "projects"
-  weight = 20
-
-[[main]]
-  name = "About"
-  pageRef = "about"
   weight = 30
 
-#[[main]]
-#  name = "Examples"
-#  weight = 20
+[[main]]
+  name = "Resume"
+  pageRef = "resume"
+  weight = 40
 
 
-#[[main]]
-#  name = "Showcase"
-#  parent = "Examples"
-#  pageRef = "examples"
-#  weight = 30
+# -- Social Menu --
 
 [[main]]
   identifier = "github"
@@ -62,15 +59,18 @@
 
 
 # -- Footer Menu --
-# The footer menu is displayed at the bottom of the page, just before
-# the copyright notice. Configure as per the main menu above.
 
- [[footer]]
+[[footer]]
    name = "Tags"
    pageRef = "tags"
    weight = 10
 
- [[footer]]
+[[footer]]
    name = "Categories"
    pageRef = "categories"
    weight = 20
+
+[[footer]]
+   name = "Github"
+   pageRef = "https://github.com/laterre39"
+   weight = 30
