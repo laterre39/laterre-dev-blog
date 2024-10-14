@@ -11,6 +11,7 @@ showViews: false
 showLikes: false
 showReadingTime: false
 showPagination: false
+sharingLinks: false
 ---  
 
 제가 개발하거나 참여한 프로젝트 들을 소개...

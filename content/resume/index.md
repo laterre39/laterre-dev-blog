@@ -11,6 +11,7 @@ showViews: false
 showLikes: false
 showReadingTime: false
 showPagination: false
+sharingLinks: false
 ---  
 
 안녕하세요 저는 백엔드 개발자 김창일(Laterre) 입니다.
