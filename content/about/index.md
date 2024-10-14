@@ -1,9 +1,9 @@
 ---
 title: "About"
-description: "Laterre tech blog"
-summary: "Laterre tech blog"
-categories: [About]
-tags: ["about"]
+#description: "Laterre tech blog"
+#summary: "Laterre tech blog"
+#categories: [About]
+#tags: ["about"]
 #externalUrl: ""
 #showSummary: true
 draft: false
