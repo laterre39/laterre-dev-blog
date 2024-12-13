@@ -1,7 +1,7 @@
 ---
 title: "클라우드 플레어로 블로그 배포하기"
-description: ""
-summary: ""
+description: "클라우드 플레어의 pages를 통해서 블로그 배포 해 보기"
+summary: "클라우드 플레어의 pages를 통해서 블로그 배포 해 보기"
 date: 2024-03-10
 categories: ["Devops", "Cloudflare"]
 tags: ["devops", "cloudflare", "github", "hugo"]

@@ -1,7 +1,7 @@
 ---
 title: "Hugo에서 blowfish 테마 커스텀 수정하기"
-description: ""
-summary: ""
+description: "Hugo에서 blowfish 테마 커스텀해서 수정해보기"
+summary: "Hugo에서 blowfish 테마 커스텀해서 수정해보기"
 date: 2024-03-23
 categories: ["Hugo", "Blog"]
 tags: ["blowfish", "blog", "hugo", "custom"]

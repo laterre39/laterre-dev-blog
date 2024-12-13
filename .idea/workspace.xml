@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="176b41cb-ff42-41ca-b0b9-ab6cf237958a" name="Changes" comment="build: 블로그 도메인 laterre.dev 로 재 설정" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="preview" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1711375427" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="preview" />
+                    <option name="lastUsedInstant" value="1711122825" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="laterre39" />
+        <option name="repository" value="laterre.dev" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="477b576b-0259-4a89-ac81-e7791423921d" />
+        <option name="url" value="https://github.com/laterre39/laterre.dev.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/content/posts/클라우드-플레어로-블로그-배포하기/index.md" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="xoqbi5t0" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dV9GJ0Zh0ONfM5HT0aVo8dGGIu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/laterre/Develop/laterre-dev-blog/content/posts/Hugo의-blowfish-테마-커스텀-수정하기",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects.stats": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/posts/Hugo의-blowfish-테마-커스텀-수정하기" />
+      <recent name="$PROJECT_DIR$/content/posts/클라우드-플레어로-블로그-배포하기" />
+      <recent name="$PROJECT_DIR$/content/posts/클라우드-플레어로-블로그-배포하기/content/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/fonts" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-abbd5a8d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="176b41cb-ff42-41ca-b0b9-ab6cf237958a" name="Changes" comment="" />
+      <created>1701849282237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701849282237</updated>
+      <workItem from="1710082283192" duration="900000" />
+      <workItem from="1710147097347" duration="4348000" />
+      <workItem from="1710766051364" duration="11218000" />
+      <workItem from="1710778807781" duration="1286000" />
+      <workItem from="1710934508278" duration="8000" />
+      <workItem from="1711122574403" duration="41000" />
+      <workItem from="1711122635288" duration="17337000" />
+      <workItem from="1711273245227" duration="5250000" />
+      <workItem from="1711463820235" duration="690000" />
+    </task>
+    <task id="LOCAL-00001" summary="post: 클라우드-플레어로-블로그-배포하기 수정">
+      <option name="closed" value="true" />
+      <created>1710773956919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710773956919</updated>
+    </task>
+    <task id="LOCAL-00002" summary="post: 클라우드-플레어로-블로그-배포하기 이미지 파일명 수정 및 섬네일 설정">
+      <option name="closed" value="true" />
+      <created>1710774248413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710774248413</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix: 파일명 및 경로 실수 수정">
+      <option name="closed" value="true" />
+      <created>1710774817628</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710774817628</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix: 태그 실수 수정">
+      <option name="closed" value="true" />
+      <created>1710774846224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710774846224</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix: 또 실수..">
+      <option name="closed" value="true" />
+      <created>1710775519302</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710775519302</updated>
+    </task>
+    <task id="LOCAL-00006" summary="post: 맞춤법 수정및 문장과 단어 수정">
+      <option name="closed" value="true" />
+      <created>1710776744096</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710776744097</updated>
+    </task>
+    <task id="LOCAL-00007" summary="post: 포스트 일부 수정">
+      <option name="closed" value="true" />
+      <created>1710777292612</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710777292612</updated>
+    </task>
+    <task id="LOCAL-00008" summary="build: 나눔명조체 폰트 블로그 적용">
+      <option name="closed" value="true" />
+      <created>1711125598900</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711125598900</updated>
+    </task>
+    <task id="LOCAL-00009" summary="build: 나눔고딕 폰트 블로그에 적용">
+      <option name="closed" value="true" />
+      <created>1711126361510</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711126361510</updated>
+    </task>
+    <task id="LOCAL-00010" summary="build: 영문 폰트 Roboto 우선순위 변경">
+      <option name="closed" value="true" />
+      <created>1711127840221</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711127840221</updated>
+    </task>
+    <task id="LOCAL-00011" summary="build: 나눔 고딕 폰트 범위 적용및 폰트 우선순위 조정">
+      <option name="closed" value="true" />
+      <created>1711176804498</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711176804498</updated>
+    </task>
+    <task id="LOCAL-00012" summary="build: css 주석 추가">
+      <option name="closed" value="true" />
+      <created>1711184748676</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711184748676</updated>
+    </task>
+    <task id="LOCAL-00013" summary="build: 블로고 로고 이미지 비활성화">
+      <option name="closed" value="true" />
+      <created>1711185015552</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711185015552</updated>
+    </task>
+    <task id="LOCAL-00014" summary="post: Hugo에서-blowfish-테마-커스텀-수정하기 preview">
+      <option name="closed" value="true" />
+      <created>1711200377925</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711200377925</updated>
+    </task>
+    <task id="LOCAL-00015" summary="build: 블로그 도메인 laterre.dev 로 재 설정">
+      <option name="closed" value="true" />
+      <created>1711374561667</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711374561667</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="post: 클라우드-플레어로-블로그-배포하기 수정" />
+    <MESSAGE value="post: 클라우드-플레어로-블로그-배포하기 이미지 파일명 수정 및 섬네일 설정" />
+    <MESSAGE value="fix: 파일명 및 경로 실수 수정" />
+    <MESSAGE value="fix: 태그 실수 수정" />
+    <MESSAGE value="fix: 또 실수.." />
+    <MESSAGE value="post: 맞춤법 수정및 문장과 단어 수정" />
+    <MESSAGE value="post: 포스트 일부 수정" />
+    <MESSAGE value="build: 나눔명조체 폰트 블로그 적용" />
+    <MESSAGE value="build: 나눔고딕 폰트 블로그에 적용" />
+    <MESSAGE value="build: 영문 폰트 Roboto 우선순위 변경" />
+    <MESSAGE value="build: 나눔 고딕 폰트 범위 적용및 폰트 우선순위 조정" />
+    <MESSAGE value="build: css 주석 추가" />
+    <MESSAGE value="build: 블로고 로고 이미지 비활성화" />
+    <MESSAGE value="post: Hugo에서-blowfish-테마-커스텀-수정하기 preview" />
+    <MESSAGE value="build: 블로그 도메인 laterre.dev 로 재 설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="build: 블로그 도메인 laterre.dev 로 재 설정" />
+  </component>
+</project>

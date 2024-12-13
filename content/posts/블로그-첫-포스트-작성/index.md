@@ -1,7 +1,7 @@
 ---
 title: "블로그 첫 포스트 작성!"
-description: "드디어 기술 블로그 첫 시작합니다!"
-summary: "드디어 기술 블로그 첫 시작합니다!"
+description: "개발자 블로그 런칭합니다!"
+summary: "개발자 블로그 런칭합니다!"
 date: 2023-11-06
 categories: ["Blog"]
 tags: ["blog", "hugo", "woowacourse"]
