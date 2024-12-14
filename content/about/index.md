@@ -12,9 +12,6 @@ showLikes: false
 showReadingTime: false
 showPagination: false
 sharingLinks: false
-languages:
-  en:
-    title: "About"
 ---  
 
 ### Hi there, I'm Changil Kim - also known as Laterre <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
