@@ -1,7 +1,7 @@
 languageCode = "ko"
 languageName = "Korean"
 weight = 1
-# title = "라테르 로그"
+# title = ""
 contentDir = "content/"
 
 [params]
