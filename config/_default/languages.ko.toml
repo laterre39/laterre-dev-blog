@@ -1,7 +1,7 @@
 languageCode = "ko"
 languageName = "Korean"
 weight = 1
-title = "라테르 로그"
+# title = "라테르 로그"
 contentDir = "content/"
 
 [params]
@@ -16,7 +16,7 @@ contentDir = "content/"
 
 [author]
   name = "Laterre"
-  image = "laterre_blog_profile.png"
+  image = "img/laterre_blog_profile.png"
   headline = "Develop Experience @Backend Developer"
   bio = "✨ 좋은 개발 경험이란 무엇일지 항상 고민합니다."
   links = [
