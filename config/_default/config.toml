@@ -7,7 +7,7 @@ theme = "blowfish"
 baseURL = "https://laterre.dev"
 defaultContentLanguage = "ko"
 
-title = "Dev+log"
+title = "개발로그"
 
 [author]
   name = "Laterre"
