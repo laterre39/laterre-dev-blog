@@ -3,11 +3,11 @@
 # https://blowfish.page/docs/getting-started/
 
 
-theme = "Dev.blog"
+theme = "Techblog"
 baseURL = "https://laterre.dev"
 defaultContentLanguage = "ko"
 
-title = "개발로그"
+title = "Laterre Devlog"
 
 [author]
   name = "Laterre"
