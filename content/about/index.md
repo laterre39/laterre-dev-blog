@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "소개"
 description: "제 개발 블로그에 오신것을 환영합니다 저는 김창일 입니다."
 summary: "제 개발 블로그에 오신것을 환영합니다 저는 김창일 입니다."
 showDate: false
@@ -12,6 +12,9 @@ showLikes: false
 showReadingTime: false
 showPagination: false
 sharingLinks: false
+languages:
+  en:
+    title: "About"
 ---  
 
 ### Hi there, I'm Changil Kim - also known as Laterre <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
