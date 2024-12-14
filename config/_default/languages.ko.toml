@@ -8,17 +8,17 @@ contentDir = "content/"
   displayName = "KO"
   isoCode = "ko"
   rtl = false
-  dateFormat = "2006 January 02"
+  dateFormat = "2006-01-02"
   logo = "img/laterre_logo_white.png"
   secondaryLogo = "img/laterre_logo_black.png"
   description = "Develop Experience @Backend Developer"
   copyright = "© { year } blog.laterre.dev"
 
 [author]
-  name = "LaTeRrE"
-  image = "img/laterre_blog_profile.png"
+  name = "Laterre"
+  image = "laterre_blog_profile.png"
   headline = "Develop Experience @Backend Developer"
-  bio = "좋은 개발 경험이란 무엇일지 항상 고민합니다."
+  bio = "✨ 좋은 개발 경험이란 무엇일지 항상 고민합니다."
   links = [
     { github = "https://github.com/laterre39" },
     { stack-overflow = "https://stackoverflow.com/users/20004273/laterre" },

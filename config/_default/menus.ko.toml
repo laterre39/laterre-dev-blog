@@ -11,9 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
   name = "Posts"
   pageRef = "posts"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Projects"
@@ -21,8 +26,8 @@
   weight = 30
 
 [[main]]
-  name = "About"
-  pageRef = "about"
+  name = "Resume"
+  pageRef = "resume"
   weight = 40
 
 
@@ -56,16 +61,16 @@
 # -- Footer Menu --
 
 [[footer]]
+   name = "Github"
+   url = "https://github.com/laterre39"
+   weight = 10
+
+[[footer]]
    name = "Tags"
    pageRef = "tags"
-   weight = 10
+   weight = 20
 
 [[footer]]
    name = "Categories"
    pageRef = "categories"
-   weight = 20
-
-[[footer]]
-   name = "Github"
-   pageRef = "https://github.com/laterre39"
    weight = 30
