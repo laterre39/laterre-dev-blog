@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 
-theme = "Techblog"
+theme = "blowfish"
 baseURL = "https://laterre.dev"
 defaultContentLanguage = "ko"
 
