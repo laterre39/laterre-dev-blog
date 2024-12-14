@@ -9,6 +9,25 @@ defaultContentLanguage = "ko"
 
 title = "Dev+log"
 
+[author]
+  name = "Laterre"
+  image = "img/laterre_blog_profile.png"
+  headline = "Develop Experience @Backend Developer"
+  bio = "✨ 좋은 개발 경험이란 무엇일지 항상 고민합니다."
+  links = [
+    { github = "https://github.com/laterre39" },
+    { stack-overflow = "https://stackoverflow.com/users/20004273/laterre" },
+    { x-twitter = "https://twitter.com" },
+    { email = "mailto:changil.kim@laterre.dev" },
+  ]
+
+[params]
+  dateFormat = "2006-01-02"
+  logo = "img/laterre_logo_white.png"
+  secondaryLogo = "img/laterre_logo_black.png"
+  description = "Develop Experience @Backend Developer"
+  copyright = "© { year } blog.laterre.dev"
+
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 # robots.txt
