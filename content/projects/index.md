@@ -8,7 +8,7 @@ showDateUpdated : false
 showHeadingAnchors : false
 showPagination : false
 showReadingTime : false
-showTableOfContents : true
+showTableOfContents : false
 showTaxonomies : false 
 showWordCount : false
 showSummary : false
@@ -17,12 +17,12 @@ showEdit: false
 showViews: false
 showLikes: false
 showComments: false
-showBreadcrumbs: false
+
 layoutBackgroundHeaderSpace: false
 
 ---  
 
-저는 개발이 세상에 새로운 것을 창조할 수 있다고 생각하는 편입니다.
+저는 개발이 세상에 새로운 것을 창조할 수 있다고 생각하는 편입니다.   
 그래서 저는 개발자의 길을 걸어가고 있습니다, 제가 개발하거나 참가한 프로젝트를 소개합니다.
 
 <table>
