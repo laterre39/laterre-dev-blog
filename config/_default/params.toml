@@ -90,7 +90,7 @@ smartTOCHideUnfocusedChildren = false
   showCards = true
   groupByYear = false
   cardView = true
-  cardViewScreenWidth = fal
+  cardViewScreenWidth = false
 
 [sitemap]
   excludedKinds = []
