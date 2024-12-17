@@ -1,17 +1,23 @@
 ---
 title: "About"
-description: "제 개발 블로그에 오신것을 환영합니다 저는 김창일 입니다."
-summary: "제 개발 블로그에 오신것을 환영합니다 저는 김창일 입니다."
-showDate: false
-showDateUpdated: false
+
+showDate : false
+showDateOnlyInArticle : false
+showDateUpdated : false
+showHeadingAnchors : false
+showPagination : false
+showReadingTime : false
+showTableOfContents : true
+showTaxonomies : false 
+showWordCount : false
+showSummary : false
+sharingLinks : false
 showEdit: false
-showWordCount: false
-showComments: false
 showViews: false
 showLikes: false
-showReadingTime: false
-showPagination: false
-sharingLinks: false
+showComments: false
+layoutBackgroundHeaderSpace: false
+
 ---  
 
 <h3>Hi there, I'm Changil Kim - also known as Laterre</h3>
