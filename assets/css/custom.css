@@ -37,10 +37,6 @@
         border-radius: 4%;
     }
 
-    .customEntitityLink {
-        width: 30px;
-    }
-
 }
 
 @media screen and (min-width: 700px) {
@@ -115,6 +111,10 @@
         border-radius: 4%;
     }
 
+}
+
+.customEntitityLink {
+    min-width: 50px;
 }
 
 td {
