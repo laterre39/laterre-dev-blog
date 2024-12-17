@@ -1,25 +1,30 @@
 ---
-title: "Project"
-description: "제가 개발한 프로젝트를 소개합니다."
-summary: "제가 개발한 프로젝트를 소개합니다."
-showDate: false
-showDateUpdated: false
+title: "Projects"
+
+showDate : false
+showDateOnlyInArticle : false
+showDateUpdated : false
+showHeadingAnchors : false
+showPagination : false
+showReadingTime : false
+showTableOfContents : true
+showTaxonomies : false 
+showWordCount : false
+showSummary : false
+sharingLinks : false
 showEdit: false
-showWordCount: false
-showComments: false
 showViews: false
 showLikes: false
-showReadingTime: false
-showPagination: false
-sharingLinks: false
+layoutBackgroundHeaderSpace: false
+
 ---  
 
-제가 개발한 프로젝트를 소개합니다.
+저는 개발이 세상에 새로운것을 창조할 수 있다고 생각하는 편 입니다. 제가 개발한 프로젝트에 대해 소개합니다.
 
 <table>
     <thead>
         <tr>
-            <th>로고/이미지</th>
+            <th>로고</th>
             <th>제목</th>
             <th>설명</th>
             <th>참고</th>
