@@ -11,14 +11,14 @@ title = "Laterre Dev"
 
 [params]
   dateFormat = "2006-01-02"
-  logo = "img/laterre_logo_white.png"
-  secondaryLogo = "img/laterre_logo_black.png"
+  logo = "img/logo_white.png"
+  secondaryLogo = "img/logo_black.png"
   description = "Develop Experience @Backend Developer"
   copyright = "© { year } laterre.dev"
 
 [params.author]
   name = "Laterre"
-  image = "img/laterre_blog_profile.png"
+  image = "img/profile_image.png"
   headline = "Develop Experience @Backend Developer"
   bio = "✨ 좋은 개발 경험이란 무엇일지 항상 고민합니다."
   links = [
