@@ -15,6 +15,7 @@ sharingLinks : false
 showEdit: false
 showViews: false
 showLikes: false
+showComments: false
 layoutBackgroundHeaderSpace: false
 
 ---  
