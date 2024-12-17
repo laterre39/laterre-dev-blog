@@ -26,7 +26,7 @@ title = "Laterre Dev"
   logo = "img/laterre_logo_white.png"
   secondaryLogo = "img/laterre_logo_black.png"
   description = "Develop Experience @Backend Developer"
-  copyright = "© { year } blog.laterre.dev"
+  copyright = "© { year } laterre.dev"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
