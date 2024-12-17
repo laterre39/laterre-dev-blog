@@ -28,10 +28,10 @@ layoutBackgroundHeaderSpace: false
 <table>
     <thead>
         <tr>
-            <th>로고</th>
-            <th>제목</th>
-            <th>설명</th>
-            <th>참고</th>
+            <th>Logo</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>References</th>
         </tr>
     </thead>
     <tbody>
