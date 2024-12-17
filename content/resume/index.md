@@ -1,23 +1,5 @@
 ---
 title: "Resume"
-description: "소개 페이지..."
-summary: "소개 페이지..."
-showDate: false
-showDateUpdated: false
-showEdit: false
-showWordCount: false
-showComments: false
-showViews: false
-showLikes: false
-showReadingTime: false
-showPagination: false
-sharingLinks: false
----  
-
----
-title: "Resume"
-date: 2022-06-13T21:28:51+01:00
-draft: false
 
 showDate : false
 showDateOnlyInArticle : false
@@ -35,7 +17,7 @@ showViews: false
 showLikes: false
 layoutBackgroundHeaderSpace: false
 
----
+---  
 
 ## Experience
 
@@ -74,7 +56,6 @@ layoutBackgroundHeaderSpace: false
         </tr>
     </thead>
     <tbody>
-    <td rowspan=4><img class="customEntitityLogo" src="hbs.svg"/></td>
         <tr>
             <td>교육 과정명</td>
             <td>교육 기간</td>
