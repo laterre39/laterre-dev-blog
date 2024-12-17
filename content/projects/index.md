@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+date: :default
 
 showDate : false
 showDateOnlyInArticle : false
