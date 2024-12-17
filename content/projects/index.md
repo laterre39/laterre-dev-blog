@@ -35,7 +35,7 @@ layoutBackgroundHeaderSpace: false
     </thead>
     <tbody>
         <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="img/usof_logo.png" width="250"/></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="img/usof_logo.png" width="150"/></td>
             <td>
               Unstackoverflow</br>
               Clone coding
@@ -44,7 +44,7 @@ layoutBackgroundHeaderSpace: false
             <td><a target="_blank" href="https://github.com/laterre39/unstackoverflow-service">github</a></td>
         </tr>
         <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="img/codetech_logo.png" width="250"/></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="img/codetech_logo.png" width="150"/></td>
             <td>
               codeTech
             </td>
