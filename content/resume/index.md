@@ -25,11 +25,11 @@ layoutBackgroundHeaderSpace: false
 <table>
     <thead>
         <tr>
-            <th>회사</th>
-            <th>링크</th>
-            <th>직급</th>
-            <th>기간</th>
-            <th>지역</th>
+            <th>Company</th>
+            <th>Link</th>
+            <th>Role</th>
+            <th>Dates</th>
+            <th>Location</th>
         </tr>
     </thead>
     <tbody>
@@ -50,10 +50,10 @@ layoutBackgroundHeaderSpace: false
 <table>
     <thead>
         <tr>
-            <th>교육기관</th>
-            <th>링크</th>
-            <th>과정</th>
-            <th>기간</th>
+            <th>School</th>
+            <th>Link</th>
+            <th>State</th>
+            <th>Date</th>
         </tr>
     </thead>
     <tbody>
