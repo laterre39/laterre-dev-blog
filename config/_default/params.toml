@@ -16,6 +16,7 @@ mainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
+disableTextInHeader = true
 
 defaultBackgroundImage = "/img/background.jpg"
 defaultFeaturedImage = "/img/default_thumbnail.png"
