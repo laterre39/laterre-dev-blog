@@ -40,8 +40,8 @@ smartTOCHideUnfocusedChildren = false
   homepageImage = "/img/background.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 12
-  showMoreLink = false
-  showMoreLinkDest = ""
+  showMoreLink = true
+  showMoreLinkDest = "/posts"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
@@ -50,6 +50,7 @@ smartTOCHideUnfocusedChildren = false
   showDate = true
   showViews = true
   showLikes = true
+  showDateOnlyInArticle = true
   showDateUpdated = false
   showAuthor = true
   showHero = true
@@ -60,10 +61,10 @@ smartTOCHideUnfocusedChildren = false
   showEdit = true
   editURL = "https://github.com/laterre39/laterre.dev/tree/main/content"
   editAppendPath = true
-  seriesOpened = false
+  seriesOpened = true
   showHeadingAnchors = true
   showPagination = true
-  invertPagination = true
+  invertPagination = false
   showReadingTime = true
   showTableOfContents = true
   showRelatedContent = true
@@ -72,6 +73,7 @@ smartTOCHideUnfocusedChildren = false
   showAuthorsBadges = true 
   showWordCount = false
   showComments = true
+  showSummary = true
   sharingLinks = [ "twitter", "telegram", "facebook", "email"] 
   # original sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"] 
 
@@ -84,12 +86,11 @@ smartTOCHideUnfocusedChildren = false
   showSummary = true
   showViews = true
   showLikes = true
-  showTableOfContents = true
+  showTableOfContents = false
   showCards = true
   groupByYear = false
   cardView = true
-  cardViewScreenWidth = false
-  constrainItemsWidth = false
+  cardViewScreenWidth = fal
 
 [sitemap]
   excludedKinds = []
@@ -101,7 +102,7 @@ smartTOCHideUnfocusedChildren = false
   showBreadcrumbs = false
   showViews = true
   showLikes = true
-  showTableOfContents = true
+  showTableOfContents = false
   cardView = false
 
 [term]
@@ -112,7 +113,7 @@ smartTOCHideUnfocusedChildren = false
   showLikes = true
   showTableOfContents = true
   groupByYear = false
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   
 [firebase]
