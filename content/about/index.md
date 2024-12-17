@@ -14,17 +14,16 @@ showPagination: false
 sharingLinks: false
 ---  
 
-### Hi there, I'm Changil Kim - also known as Laterre <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
+<h3>Hi there, I'm Changil Kim - also known as Laterre</h3>
 
-## I'm a Backend <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, also interested in Fullstack and Devops !!
+<h2>I'm a Backend <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, also interested in Fullstack and Devops !!</h2>
 
 > 🚀 안녕하세요, 저는 김창일입니다. 라테르라는 닉네임으로 활동합니다. 백엔드 개발자이며 풀스택 개발자와 데브옵스에 관심이 많습니다.
 
 <br/>
 
 <div>
-<h2 align="center">🛠️ Skills</h2>
-  <div align="center">
+<h2 align="left">🛠️ Skills</h2>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -52,5 +51,4 @@ sharingLinks: false
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  </div>
 </div>
