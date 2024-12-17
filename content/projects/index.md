@@ -15,6 +15,7 @@ sharingLinks : false
 showEdit: false
 showViews: false
 showLikes: false
+showComments: false
 layoutBackgroundHeaderSpace: false
 
 ---  
@@ -34,7 +35,8 @@ layoutBackgroundHeaderSpace: false
          <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="img/usof_logo.png"/></td>
             <td>
-              Unstackoverflow Clone
+              Unstackoverflow</br>
+              Clone coding
             </td>
             <td>유명한 해외 코딩 커뮤니티인 스택오버플로우를 재해석해 클론코딩 프로젝트를 진행 했습니다.</td>
             <td><a target="_blank" href="https://github.com/laterre39/unstackoverflow-service">github</a></td>
