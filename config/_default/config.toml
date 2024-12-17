@@ -32,13 +32,17 @@ title = "Laterre Dev"
 
 # robots.txt
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 30
 
 buildDrafts = false
 buildFuture = false
 
+enableEmoji = true
+
 #googleAnalytics = "G-
+
+[pagination]
+  pagerSize = 12
 
 [imaging]
   anchor = 'Center'
@@ -58,9 +62,18 @@ priority = 0.5
   home = ["HTML", "RSS", "JSON"]
 
 [related]
-  threshold = 0
-  toLower = false
+  threshold = 1
+  includeNewer = true
+  toLower = true
 
     [[related.indices]]
-        name = "posts"
-        weight = 10
+        name = "tags"
+        weight = 100
+
+    [[related.indices]]
+        name = "categories"
+        weight = 100
+
+    [[related.indices]]
+        name = "date"
+        weight = 0
