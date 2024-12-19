@@ -54,23 +54,23 @@
 [[main]]
   identifier = "email"
   pre = "email"
-  url = "mailto:laterre39@naver.com"
+  url = "mailto:changil.kim@laterre.dev"
   weight = 400
 
 
 # -- Footer Menu --
 
 [[footer]]
-   name = "Github"
-   url = "https://github.com/laterre39"
-   weight = 10
-
-[[footer]]
    name = "Tags"
    pageRef = "tags"
-   weight = 20
+   weight = 10
 
 [[footer]]
    name = "Categories"
    pageRef = "categories"
+   weight = 20
+
+[[footer]]
+   name = "Github"
+   url = "https://github.com/laterre39"
    weight = 30
