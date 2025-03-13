@@ -19,7 +19,7 @@ title = "Laterre Dev"
 [params.author]
   name = "Changil.Kim"
   email = "changil.kim@laterre.dev"
-  image = "img/profile_image.png"
+  image = "img/laterre_profile.jpeg"
   imageQuality = 80
   headline = "Develop Experience @Backend Developer"
   bio = "✨ 좋은 개발 경험이란 무엇일지 항상 고민합니다."
