@@ -1,5 +1,5 @@
-languageCode = "ko"
-languageName = "Korean"
+locale = "ko"
+label = "Korean"
 weight = 1
 # title = ""
 contentDir = "content/"
@@ -7,4 +7,3 @@ contentDir = "content/"
 [params]
   displayName = "KO"
   isoCode = "ko"
-

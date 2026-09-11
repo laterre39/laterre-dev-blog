@@ -1,5 +1,5 @@
-languageCode = "en"
-languageName = "English"
+locale = "en"
+label = "English"
 weight = 2
 # title = ""
 contentDir = "content/"
@@ -7,4 +7,3 @@ contentDir = "content/"
 [params]
   displayName = "EN"
   isoCode = "en"
-
